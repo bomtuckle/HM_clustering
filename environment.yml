@@ -6,4 +6,6 @@ dependencies:
   - umap-learn
   - numpy
   - pandas
-  - python
+  - python=3.6
+  - matplotlib
+  - sklearn
